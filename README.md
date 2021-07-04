@@ -4,7 +4,7 @@ Spring-Boot -REST-API with Kafka Messaging.
 1)Tool-Requirement
 ----kafka,xamp server,phpmyadmin,mysql,spring-sts tool,postman,
 
-2) Technology-Requirement
+2)Technology-Requirement
 ----Spring-Boot,Hql,and Java
 
 3)Rest-Api key Functionality
